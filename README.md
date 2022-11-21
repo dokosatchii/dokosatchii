@@ -14,62 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
 <h2 style="text-align: center"> WORK EXPERIENCE </h2>
-<div style="width: 100%; margin: 0 auto">
-<div style="width: 50%;display:inline-block">
 
-## SKILLS
-### PROGRAMMING LANGUAGES  
--  Python  
--  ReactJS  
--  MySQL  
--  Node  
--  Postgres  
--  Javascript
-
-### OTHER  
--  Docker  
--  Git  
--  Github  
--  AWS (Amazon Web Services)  
--  Jenkins  
--  DroneIO  
--  Fastly  
--  Google Cloud  
--  Terraform
--  OpenVPN  
--  NextJS  
--  Cassandra  
--  Redis  
--  ECS  
--  S3  
-
-## EDUCATION  
-Rutgers University
-School of Arts and Sciences
-May 2014
-Bachelor of Arts in Mathematics
-Economics Minor
-
-## VOLUNTEER  
-- Citizen Schools Volunteer
-Taught principles of
-entrepreneurship to low-income
-middle school students  
-- Rise Against Hunger
-Packaged and donated meals to
-under-developed regions  
-
-## CONTACT  
-michael@vipersurf.com  
-www.vipersurf.com  
-Jersey City, NJ  
-in/devmichaelrobles
-</div>
-<div style="width: 50%;display:inline-block">
-
-### Netflix Senior Software Engineer  
-#### April 2021–March 2022 - Remote, NJ  
+<h3 style="text-align: center">Netflix Senior Software Engineer </h3>
+<h4 style="text-align: center">April 2021–March 2022 - Remote, NJ </h4>  
 
 - Partnered with AWS to monitor and maintain EC2 instance availability for all of Netflix
 - Built systems to monitor and scale clusters to appropriately anticipate and scale for failover events
@@ -79,8 +29,9 @@ outages, cyberattacks, and unexpected traffic shifts
 - Created dashboards contrasting instance, cluster, and auto-scaling metrics to reduce on-call alerts by 50%
 - Containerized the codebase to obtain parity between environments and simplifying the developer experience  
 
-### The New York Times-Wirecutter DevOps Engineer  
-#### April 2020–April 2021 - Remote, CA  
+<h3 style="text-align: center"> The New York Times-Wirecutter DevOps Engineer  </h3>
+<h4 style="text-align: center">April 2020–April 2021 - Remote, CA  </h4>
+
 -  Provide subject matter expertise on IAM related technologies S3 bucket permissions across the company  
 -  Worked with AWS Lambda, SQS, ECS, and other services to improve deployments and observability  
 -  Present and led company-wide Docker workshops to improve employee skillsets  
@@ -88,8 +39,9 @@ outages, cyberattacks, and unexpected traffic shifts
 -  Led live coding sessions to help familiarize and mentor new developers to the stack
 -  Reduced developer local development onboarding from 1 week to 20 minutes  
 
-### The New York Times-Parenting Software Engineer  
-#### Remote, NY - May 2019–April 2020 
+<h3 style="text-align: center"> The New York Times-Parenting Software Engineer  </h3>
+<h4 style="text-align: center">Remote, NY - May 2019–April 2020 </h4>
+
 -  Architected REST API’s routes using ExpressJS, incorporated unit and integration test pipeline to ensure stability
 and reliability
 -  Architected a custom CMS using NextJS, ReactJS, and Postgres to allow journalists to update site content
@@ -102,8 +54,9 @@ deployments, increasing transparency and efficiency by 66%
 -  Built and presented an Augmented Reality React Native hack-a-thon project to C-level executives as a potential
 revenue generating product line  
 
-### Johnson & Johnson Senior Backend Web Developer  
-#### June 2017–May 2019 - Raritan, NJ  
+<h3 style="text-align: center"> Johnson & Johnson Senior Backend Web Developer  </h3>
+<h4 style="text-align: center">June 2017–May 2019 - Raritan, NJ  </h4>
+
 -  Architected Kubernetes infrastructure on AWS which increased operational flexibility, reliability and
 independence from PaaS contractors
 -  Improved overall developer experience by implementing Docker
@@ -113,8 +66,9 @@ and potential security vulnerabilities
 app developers to experiment, prototype, and build more complex applications quickly, while providing a simple
 interface for stakeholders and administrators  
 
-### VIPERsurf VPN & Consulting Chief Executive Officer-Part Time  
-#### February 2018–Today -Jersey City, NJ  
+<h3 style="text-align: center"> VIPERsurf VPN & Consulting Chief Executive Officer-Part Time  </h3>
+<h4 style="text-align: center">February 2018–Today -Jersey City, NJ  </h4>
+
 -  Architected and developed a cloud agnosƟc on-demand VPN system using Terraform where servers are managed
 via a portal built in ReactJS or an API
 -  Implemented a CI/CD pipeline using Drone IO which implements a mulƟbranch pipeline to: monitor code changes,
@@ -124,5 +78,61 @@ security holes, and supplying secrets at runtime using Vault
 -  Decreased total costs by 70% by opƟmizing AWS server configuraƟons and business logic Performed in-depth
 technical, operational, and security analyses of client infrastructure to recommend solutions such as SCRUM,
 customized educational material and other resources to increase operational efficiency, reliability, and security
-</div>
+
+<div style="text-align: center">
+
+<h2> SKILLS </h2>
+
+
+<h3> PROGRAMMING LANGUAGES  </h3>
+● Python 
+● ReactJS 
+● MySQL 
+● Node 
+● Postgres 
+● Javascript  
+  
+<h3> OTHER  </h3>
+
+● Docker 
+● Git 
+● Github 
+● AWS (Amazon Web Services) 
+● Jenkins 
+● DroneIO 
+● Fastly 
+● Google Cloud 
+● Terraform
+● OpenVPN 
+● NextJS 
+● Cassandra 
+● Redis 
+● ECS 
+● S3 
+
+<h3> EDUCATION  </h3>
+
+Rutgers University  May 2014  
+School of Arts and Sciences  
+  
+
+Bachelor of Arts in Mathematics  
+Economics Minor
+
+<h3> VOLUNTEER  </h3>
+
+Citizen Schools Volunteer
+Taught principles of
+entrepreneurship to low-income
+middle school students  
+Rise Against Hunger
+Packaged and donated meals to
+under-developed regions  
+
+<h3> CONTACT </h3>
+
+https://www.linkedin.com/in/devmichaelrobles/  
+michael@vipersurf.com  
+www.vipersurf.com  
+Jersey City, NJ  
 </div>
