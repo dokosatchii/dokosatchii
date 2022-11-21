@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h2 style="text-align: center"> WORK EXPERIENCE </h2>
 <div style="width: 100%; margin: 0 auto">
-<div style="width: 20%;display:inline-block">
+<div style="width: 50%;display:inline-block">
 
 ## SKILLS
 ### PROGRAMMING LANGUAGES  
@@ -66,7 +66,7 @@ www.vipersurf.com
 Jersey City, NJ  
 in/devmichaelrobles
 </div>
-<div style="width: 70%;display:inline-block">
+<div style="width: 50%;display:inline-block">
 
 ### Netflix Senior Software Engineer  
 #### April 2021–March 2022 - Remote, NJ  
