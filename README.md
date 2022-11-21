@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### WORK EXPERIENCE
+## WORK EXPERIENCE
 
-#### Netflix Senior Software Engineer  
-##### Remote, NJ  
-##### April 2021–March 2022  
+### Netflix Senior Software Engineer  
+#### Remote, NJ  
+#### April 2021–March 2022  
 - Partnered with AWS to monitor and maintain EC2 instance availability for all of Netflix
 - Built systems to monitor and scale clusters to appropriately anticipate and scale for failover events
 - Maintained a regional failover framework to ensure service availability despite bad deployments, AWS service
@@ -27,9 +27,9 @@ outages, cyberattacks, and unexpected traffic shifts
 - Created dashboards contrasting instance, cluster, and auto-scaling metrics to reduce on-call alerts by 50%
 - Containerized the codebase to obtain parity between environments and simplifying the developer experience  
 
-#### The New York Times-Wirecutter DevOps Engineer  
-##### Remote, CA  
-##### April 2020–April 2021
+### The New York Times-Wirecutter DevOps Engineer  
+#### Remote, CA  
+#### April 2020–April 2021
 -  Provide subject matter expertise on IAM related technologies S3 bucket permissions across the company  
 -  Worked with AWS Lambda, SQS, ECS, and other services to improve deployments and observability  
 -  Present and led company-wide Docker workshops to improve employee skillsets  
@@ -37,9 +37,9 @@ outages, cyberattacks, and unexpected traffic shifts
 -  Led live coding sessions to help familiarize and mentor new developers to the stack
 -  Reduced developer local development onboarding from 1 week to 20 minutes  
 
-#### The New York Times-Parenting Software Engineer  
-##### Remote, NY
-##### May 2019–April 2020  
+### The New York Times-Parenting Software Engineer  
+#### Remote, NY
+#### May 2019–April 2020  
 -  Architected REST API’s routes using ExpressJS, incorporated unit and integration test pipeline to ensure stability
 and reliability
 -  Architected a custom CMS using NextJS, ReactJS, and Postgres to allow journalists to update site content
@@ -52,9 +52,9 @@ deployments, increasing transparency and efficiency by 66%
 -  Built and presented an Augmented Reality React Native hack-a-thon project to C-level executives as a potential
 revenue generating product line  
 
-#### Johnson & Johnson Senior Backend Web Developer  
-##### Raritan, NJ  
-##### June 2017–May 2019
+### Johnson & Johnson Senior Backend Web Developer  
+#### Raritan, NJ  
+#### June 2017–May 2019
 -  Architected Kubernetes infrastructure on AWS which increased operational flexibility, reliability and
 independence from PaaS contractors
 -  Improved overall developer experience by implementing Docker
@@ -64,9 +64,9 @@ and potential security vulnerabilities
 app developers to experiment, prototype, and build more complex applications quickly, while providing a simple
 interface for stakeholders and administrators  
 
-#### VIPERsurf VPN & Consulting Chief Executive Officer-Part Time  
-##### Jersey City, NJ  
-##### February 2018–Today
+### VIPERsurf VPN & Consulting Chief Executive Officer-Part Time  
+#### Jersey City, NJ  
+#### February 2018–Today
 -  Architected and developed a cloud agnosƟc on-demand VPN system using Terraform where servers are managed
 via a portal built in ReactJS or an API
 -  Implemented a CI/CD pipeline using Drone IO which implements a mulƟbranch pipeline to: monitor code changes,
